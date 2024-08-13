@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thuantran520
+- 👋 Hi, I’m Minh Thuan
 
 <!---
 Thuantran520/Thuantran520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
